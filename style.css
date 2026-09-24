@@ -1,0 +1,7 @@
+
+body{font-family:Arial,sans-serif;background:#0f172a;color:white;margin:0}
+nav{padding:20px;background:#111827;position:sticky;top:0}
+.hero{text-align:center;padding:80px 20px}
+.profile{width:180px;height:180px;border-radius:50%}
+.btn{background:#3b82f6;color:white;padding:10px 20px;text-decoration:none;border-radius:8px}
+.card{margin:30px auto;max-width:900px;background:rgba(255,255,255,.08);padding:25px;border-radius:16px}
